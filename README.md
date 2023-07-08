@@ -30,13 +30,12 @@ It is a Cypress project that automated the noopCommecrce website(https://demo.no
 </table>
 
 # Test Video
-
+### Login Feature
 https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/11149126-4dc1-46d1-864b-6d4c83438dfd
 
 
 
-
-
+### End to End testing for purchasing a product.
 https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/c959b0d2-006d-49d8-9799-92ad9cbd148f
 
 
@@ -44,7 +43,7 @@ https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/c959b0d2-00
 
 
 
-
+### Searching any product using keywords
 https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/7af778e7-a2ed-44de-aa91-47f4444de830
 
 
