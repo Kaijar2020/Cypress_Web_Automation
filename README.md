@@ -27,10 +27,6 @@ It is a Cypress project that automated the noopCommecrce website(https://demo.no
     <td>IDE</td>
     <td><b>VS code</b></td>
    </tr>
-   <tr>
-    <td>BDD Report</td>
-    <td><b>Cucumber</b></td>
-   </tr>
 </table>
 
 # Test Video
@@ -52,7 +48,7 @@ https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/c959b0d2-00
 https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/7af778e7-a2ed-44de-aa91-47f4444de830
 
 
-#### Feed
+#### Feedback
 
 If you have any feedback, please reach out to me at kizarakibayon@gmail.com
  
