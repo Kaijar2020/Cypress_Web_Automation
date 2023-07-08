@@ -1,5 +1,4 @@
 
-https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/539bdfc8-88b5-4536-9182-08ef5f020657
 # Cypress_Web_Automation
 
 ## What is Cypress?
