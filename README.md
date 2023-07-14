@@ -46,7 +46,6 @@ https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/c959b0d2-00
 ### Searching any product using keywords
 https://github.com/Kaijar2020/Cypress_Web_Automation/assets/59390481/7af778e7-a2ed-44de-aa91-47f4444de830
 
-
 #### Feedback
 
 If you have any feedback, please reach out to me at kizarakibayon@gmail.com
