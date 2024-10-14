@@ -3,7 +3,7 @@
 name: run test of by push
 
 on:
-  push:
+ #push:
     branches:
       'feature/*'
 
