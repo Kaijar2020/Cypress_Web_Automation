@@ -2,7 +2,7 @@ name: Schedule runner
 
 on:
   schedule:
-    - cron: '5 14 * * *'
+    - cron: '10 14 * * *'
 
 jobs:
   schedule-run:
